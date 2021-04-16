@@ -1,3 +1,3 @@
-module github.com/ifqygazhar/go-module/v2
+module github.com/ifqygazhar/go-module/v3
 
 go 1.16
